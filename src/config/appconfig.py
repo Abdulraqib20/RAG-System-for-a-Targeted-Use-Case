@@ -7,6 +7,10 @@ pinecone_key = os.getenv("PINECONE_API_KEY")
 langchain_key = os.getenv("LANGCHAIN_API_KEY")
 qdrant_key = os.getenv("QDRANT_API_KEY")
 
+vertex_ai_key = os.getenv("VERTEX_AI_KEY")
+anthropic_key = os.getenv("ANTHROPIC_KEY")
+openai_api_key = os.getenv("OPENAI_API_KEY")
+
 
 # app_port = os.getenv("PORT")
 # auth_user = os.getenv("AUTH_USERNAME")
